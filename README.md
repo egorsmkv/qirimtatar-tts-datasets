@@ -1,3 +1,5 @@
+<img src="./misc/Flag_of_the_Crimean_Tatar_people.svg.png" width="300"> 
+
 # Open Source Crimean Tatar Text-to-Speech datasets
 
 Join Ukrainian community - https://t.me/speech_synthesis_uk
