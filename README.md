@@ -8,16 +8,19 @@ Join Ukrainian community - https://t.me/speech_synthesis_uk
 
 ### Male
 
-#### Abibullah
+#### [Abibullah][1]
 
 - Quality: high
 - Duration: 2h + 50m
 - Audio formats: OPUS
 - Frequency: 48000 Hz
 
-#### Arslan
+#### [Arslan][2]
 
 - Quality: high
 - Duration: 40m + 40m
 - Audio formats: OPUS
 - Frequency: 48000 Hz
+
+[1]: https://github.com/egorsmkv/qirimtatar-tts-datasets/tree/main/abibullah
+[2]: https://github.com/egorsmkv/qirimtatar-tts-datasets/tree/main/arslan
