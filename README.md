@@ -22,5 +22,10 @@ Join Ukrainian community - https://t.me/speech_synthesis_uk
 - Audio formats: OPUS
 - Frequency: 48000 Hz
 
+## Appearance on the web
+
+- HF demos:
+  - https://huggingface.co/spaces/robinhad/qirimtatar-tts
+
 [1]: https://github.com/egorsmkv/qirimtatar-tts-datasets/tree/main/abibullah
 [2]: https://github.com/egorsmkv/qirimtatar-tts-datasets/tree/main/arslan
