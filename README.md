@@ -22,6 +22,15 @@ Join Ukrainian community - https://t.me/speech_synthesis_uk
 - Audio formats: OPUS
 - Frequency: 48000 Hz
 
+### Female
+
+#### [Sevil][3]
+
+- Quality: high
+- Duration: 2h + 29m
+- Audio formats: OPUS
+- Frequency: 48000 Hz
+
 ## Appearance on the web
 
 - HF demos:
@@ -29,3 +38,4 @@ Join Ukrainian community - https://t.me/speech_synthesis_uk
 
 [1]: https://github.com/egorsmkv/qirimtatar-tts-datasets/tree/main/abibullah
 [2]: https://github.com/egorsmkv/qirimtatar-tts-datasets/tree/main/arslan
+[3]: https://github.com/egorsmkv/qirimtatar-tts-datasets/tree/main/sevil
