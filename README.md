@@ -4,6 +4,10 @@
 
 Join Ukrainian community - https://t.me/speech_synthesis_uk
 
+## Download
+
+Hugging Face: https://huggingface.co/datasets/Yehor/qirimtatar-tts
+
 ## Voices
 
 ### Male
